@@ -31,4 +31,4 @@ I processed complex datasets to create a high-impact visual narrative focusing o
 *   **Excel/CSV:** Source data processing and cleaning.
 
 ---
-**Project by:** [Your Name]
+**Project by:** [Debjyoti Paul]
